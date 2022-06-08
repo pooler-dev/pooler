@@ -3,7 +3,7 @@
 /.vs
 
 # BACKEND
-/dev/.encore
+/dev/backend/.encore
 
 
 # FRONTEND
