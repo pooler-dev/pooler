@@ -1,0 +1,30 @@
+# ENVIRONMENT
+/.idea
+/.vs
+
+# BACKEND
+/dev/.encore
+
+
+# FRONTEND
+# dependencies
+/dev/frontend/node_modules
+/dev/frontend/.pnp
+/dev/frontend.pnp.js
+
+# testing
+/dev/frontend/coverage
+
+# production
+/dev/frontend/build
+
+# misc
+/dev/frontend.DS_Store
+/dev/frontend.env.local
+/dev/frontend.env.development.local
+/dev/frontend.env.test.local
+/dev/frontend.env.production.local
+
+/dev/frontendnpm-debug.log*
+/dev/frontendyarn-debug.log*
+/dev/frontendyarn-error.log*
